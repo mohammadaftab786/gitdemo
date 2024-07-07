@@ -1,12 +1,4 @@
-'hello all'
-'DONE'
-'hello all'
-'DONE'
-'hello all'
-'DONE'
-'hello all'
-'DONE'
-'hello all'
-'DONE'
-'hello all'
-'DONE'
+from add import *
+
+print(diff(4,2))
+print("Hello world")
